@@ -404,8 +404,6 @@ Project inspired from hands-on AWS Bedrock RAG implementation and deployment wor
 
 Cloud Engineer | AWS | DevOps | Generative AI
 
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://linkedin.com/in/yourprofile
 
 ---
 
